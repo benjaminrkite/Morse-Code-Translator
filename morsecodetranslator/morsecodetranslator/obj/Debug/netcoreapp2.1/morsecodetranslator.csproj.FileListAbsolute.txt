@@ -1,0 +1,11 @@
+/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/obj/Debug/netcoreapp2.1/morsecodetranslator.csprojAssemblyReference.cache
+/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/obj/Debug/netcoreapp2.1/morsecodetranslator.csproj.CoreCompileInputs.cache
+/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/obj/Debug/netcoreapp2.1/morsecodetranslator.AssemblyInfoInputs.cache
+/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/obj/Debug/netcoreapp2.1/morsecodetranslator.AssemblyInfo.cs
+/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/bin/Debug/netcoreapp2.1/morsecodetranslator.deps.json
+/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/bin/Debug/netcoreapp2.1/morsecodetranslator.runtimeconfig.json
+/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/bin/Debug/netcoreapp2.1/morsecodetranslator.runtimeconfig.dev.json
+/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/bin/Debug/netcoreapp2.1/morsecodetranslator.dll
+/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/bin/Debug/netcoreapp2.1/morsecodetranslator.pdb
+/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/obj/Debug/netcoreapp2.1/morsecodetranslator.dll
+/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/obj/Debug/netcoreapp2.1/morsecodetranslator.pdb

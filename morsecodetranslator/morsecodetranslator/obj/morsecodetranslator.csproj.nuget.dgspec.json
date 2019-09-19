@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/morsecodetranslator.csproj": {}
+  },
+  "projects": {
+    "/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/morsecodetranslator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/morsecodetranslator.csproj",
+        "projectName": "morsecodetranslator",
+        "projectPath": "/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/morsecodetranslator.csproj",
+        "packagesPath": "/Users/benkite/.nuget/packages/",
+        "outputPath": "/Users/benkite/Desktop/Desktop/School/morsecodetranslator/morsecodetranslator/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/benkite/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
